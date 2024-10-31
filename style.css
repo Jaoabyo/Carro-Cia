@@ -1,0 +1,88 @@
+*{
+    font-family: sans-serif;
+    margin: 0 auto;
+}
+.secao-banner{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.404);
+    position: fixed;
+    top: 0px;
+   color: gold; 
+}
+.secao-banner p{
+    padding-top: 20px;
+}
+.secao-banner a{
+    color:gold;
+    padding: 20px;
+    font-size: 24px;
+}
+.img-banner{
+   
+    background-image: url(banner.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.secao-sobre{
+    text-align: center;
+    padding: 50px;
+}
+h2{
+    font-size: 30px;
+    padding-bottom: 25px;
+}
+.paragrafodestaq{
+    text-decoration: underline;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+.secao-sobre p{
+    padding-top: 20px;
+    font-size: 20px;
+    width: 50%;
+
+}
+.secao-sobre span{
+    color:gold ;
+    font-weight: bold;
+}
+.secao-consultores{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.secao-consultores p{
+    padding-top: 30px;
+    font-size: 20px;
+    width: 60%;
+    
+}
+.secao-consultores img{
+    width: 30%;
+    
+}
+.lista{
+    margin: ;
+    font-size: 20px;
+    text-align: justify;
+}
+.onde-estamos{
+    padding-top: 50px;
+  
+   
+    text-align: center;
+}
+.onde-estamos p{
+    background-color: black;
+    color: gold;
+    padding: 10px;
+    border: 3px solid gold;
+
+}
+.texto-justificado{
+    text-align: justify;
+}
